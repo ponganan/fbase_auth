@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965220055828",
+    "project_id": "my-firebase-9218f",
+    "storage_bucket": "my-firebase-9218f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965220055828:android:3cf749ed9dba13c906a001",
+        "android_client_info": {
+          "package_name": "com.ponganan.fbaseauth.fbase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965220055828-r7cvkj6ftdr305e1739e3qvc5b5h86th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABUZAGqpGHfKDFTAyp2JpAGT48qY16Hn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965220055828-r7cvkj6ftdr305e1739e3qvc5b5h86th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
